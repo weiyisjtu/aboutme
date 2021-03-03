@@ -1,6 +1,6 @@
 # Hi, I'm Weiyi.
 
-I'm an undergraduate at Shanghai Jiao Tong University, studing at School of Naval Architecture and Ocean Engineering.
+My name's Weiyi Zhang. I'm an undergraduate at Shanghai Jiao Tong University, studying at School of Naval Architecture and Ocean Engineering.
 
 ## Contact me
 
